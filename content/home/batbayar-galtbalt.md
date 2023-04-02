@@ -1,10 +1,10 @@
 ---
-widget: baagii
+widget: Home
 widget_id: Batbayar Galtbalt
 headless: true
 weight: 0
-title: ""
-subtitle: ""
+title: vfvfvfv
+subtitle: vfv
 active: true
 design:
   columns: "2"
